@@ -1,3 +1,4 @@
 # sources
 
-https://www.vallalartheprophet.com
+- https://www.vallalartheprophet.com
+- https://vallalarfrance.fr/
